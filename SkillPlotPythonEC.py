@@ -21,7 +21,7 @@ plt.ylabel('Current (A)')
 plt.grid(axis='both')
 
 
-# Table of FA24 New Beginning Freshmen 10-Day Profile
+# Bar graph of FA24 New Beginning Freshmen 10-Day Profile
 # Data from https://dmi.illinois.edu/stuenr/abstracts/fa24freshman_ten.htm
 
 # Data
